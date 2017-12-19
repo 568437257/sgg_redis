@@ -12,3 +12,4 @@ update dev02
 friend
 fix bug22:43
 fix bug22:47
+fix bug22:54
