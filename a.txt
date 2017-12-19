@@ -13,3 +13,4 @@ friend
 fix bug22:43
 fix bug22:47
 fix bug22:54
+fix bug22:56
