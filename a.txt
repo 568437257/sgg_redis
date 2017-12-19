@@ -11,3 +11,4 @@ update dev02
 88888888
 friend
 fix bug22:43
+fix bug22:47
